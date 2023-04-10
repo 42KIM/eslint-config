@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-typescript",
+  "name": "@42kim/eslint-config-typescript",
   "version": "0.1.0",
   "description": "simple, essential eslint-typescript config",
   "main": "index.js",
