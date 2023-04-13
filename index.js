@@ -4,6 +4,7 @@ module.exports = {
     project: true
   },
   plugins: ['@typescript-eslint'],
+  files: ['*.ts', '*.tsx'],
   rules: {
     '@typescript-eslint/consistent-type-imports': [
       'error',
