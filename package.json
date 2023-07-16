@@ -1,6 +1,6 @@
 {
   "name": "@42kim/eslint-config-typescript",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "description": "simple, essential eslint-typescript config",
   "main": "index.js",
   "repository": {
@@ -19,9 +19,8 @@
     "url": "https://github.com/42KIM/eslint-config-typescript/issues"
   },
   "homepage": "https://github.com/42KIM/eslint-config-typescript#readme",
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^5.57.1"
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.0.0"
   },
   "peerDependencies": {
     "eslint": "^8.37.0",
